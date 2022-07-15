@@ -8,6 +8,7 @@ UI optimised for windows and mac.
 Takes list of files as input and shows the percentage similarities a chosen base files to the other files.
 
 Improvements needed
+
 => rewrite shingles processing and text comparison logic to c or c++ code to improve speed and 
 return value through ffi.
 
